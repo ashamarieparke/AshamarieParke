@@ -10,6 +10,8 @@ I’m becoming a better engineer by practicing new skills and building new proje
 
 Outside of building and programming, I enjoy reading and playing Animal Crossing. 
 
+Thank you for viewing my GitHub!
+
 - 📫 How to reach me: ashamarie.parke@gmail.com
 - ⚡ Fun fact: I am on level 365 on Candy Crush Saga!
   
