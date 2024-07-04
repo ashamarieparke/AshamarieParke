@@ -15,4 +15,4 @@ Thank you for viewing my GitHub!
 - 📫 How to reach me: ashamarie.parke@gmail.com
 - ⚡ Fun fact: I am on level 365 on Candy Crush Saga!
   
-
+### Technical Skills
