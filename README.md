@@ -12,9 +12,11 @@ Outside of building and programming, I enjoy reading and playing Animal Crossing
 
 Thank you for viewing my GitHub!
 
-- 📫 How to reach me: ashamarie.parke@gmail.com
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ashamarie.parke@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashamarieparke/)
+
 - ⚡ Fun fact: I am on level 365 on Candy Crush Saga!
-  
+
+
 ### Technical Skills
 
 
