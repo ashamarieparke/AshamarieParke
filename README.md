@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-I’m a junior studying Computer Science who has always loved technology and keeping up with the latest frameworks/tools.
+I’m a senior studying Computer Science who has always loved technology and keeping up with the latest frameworks/tools.
 
 I am interested in Software and Full Stack Development, Mobile App Development, Robotics, and Artificial Intelligence.
 
